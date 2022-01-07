@@ -1,5 +1,5 @@
 # RustyRipper
-## My github stats:
+## My stats:
 <table>
     <tr>
          <td valign="top">
