@@ -38,8 +38,10 @@ I am a Full Stack Developer with 8+ years of experience in developing enterprise
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=RustyRipper&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  <a href='https://profile.codersrank.io/user/RustyRipper/'>
+  <codersrank-skills-chart username="RustyRipper"></codersrank-skills-chart>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=RustyRipper'>
+  <codersrank-timeline type="technologies" username="RustyRipper"></codersrank-timeline>
   </a>
 
 </details>
