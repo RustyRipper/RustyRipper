@@ -4,7 +4,7 @@ This is the place where I post my loose projects
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/maciej-makara-3039b720a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maciej-makara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="mailto:maciejmakara01@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"  height="30" width="30" /></a>
 
 
