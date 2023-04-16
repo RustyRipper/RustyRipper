@@ -51,6 +51,7 @@ Hi my name is Maciej and I'm software developer and computer science student in 
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/RustyRipper/'>
+  <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RustyRipper'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=RustyRipper'>
   </a>
 
