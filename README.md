@@ -1,27 +1,32 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-
 🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://www.linkedin.com/in/maciej-makara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="mailto:maciejmakara01@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"  height="30" width="30" /></a>
+<p>
+<a href="https://www.linkedin.com/in/maciej-makara/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" height="30" width="30" /></a>
+<a href="mailto:maciejmakara01@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png"  height="30" width="32" /></a>
 
 
 📊 &nbsp;**In my projects I used**
 
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RustyRipper&langs_count=25&layout=compact&show_icons=true&icon_color=0096ff&theme=tokyonight)
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
 
-Hi my name is Maciej and I'm software developer and computer science student in Wrocław. In my spare time I expand my knowledge and techniques in the field software architecture.
-</details>
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 
+Hi, I'm Maciej, a software developer and computer science student based in Wrocław.I'm passionate about building
+efficient and scalable software solutions. In my spare time, I deepen my expertise in software architecture, exploring
+design patterns, system scalability, and best practices in modern development. I'm always eager to learn new
+technologies and enhance my problem-solving techniques through hands-on projects and continuous learning.
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left">
+<summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+<p align="left">
+
+<img src="https://pbs.twimg.com/profile_images/1704592664501633025/Xi--n_Cl_400x400.jpg" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-cucumber-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175236.png?f=webp&w=256" width="40" height="40"/>
+<img src="https://cdn.fs.teachablecdn.com/L2rtxPaRxa4am1VtNegg" width="40" height="40"/>
+<img src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" width="80" height="40"/>
+<img src="https://www.contentside.com/wp-content/uploads/2015/01/spring-boot-logo.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png" width="40" height="40"/>
   <img src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png" alt="gitlab" width="40" height="40"/>
   <img src="https://i0.wp.com/jd-bots.com/wp-content/uploads/2021/05/powershell.png?fit=1600%2C1600&ssl=1" alt="powershell" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/>
@@ -43,15 +48,3 @@ Hi my name is Maciej and I'm software developer and computer science student in 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </p>
-
-</details>
-
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RustyRipper&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"'>
-  <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=RustyRipper'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RustyRipper'>
-  </a>
-
-</details>
